@@ -5,18 +5,6 @@ I'm a **full-stack web developer**, **UI/UX designer**, and **technical problem 
 My work is **minimalist**, **mobile-first**, and **user-focused**, while under the hood it's clean, efficient, and scalable. Whether you're a startup, brand, or agency — I make the web work for you.
 
 
-## 💼 What I Do
-
-- **Full-Stack Web Development** – Clean, semantic HTML/CSS, fast JS, solid PHP
-- **CMS Expertise** – Advanced solutions with **Joomla 5** and **PrestaShop**
-- **E-Commerce Engineering** – Custom modules, product bundles, checkout flows, shipping/payment integrations (Stripe, Packeta, etc.)
-- **UI/UX Design** – Unique, responsive designs with a focus on user experience, clarity, and conversion
-- **Experimental Interfaces** – Interactive terminals, animated blobs, and creative UI using **Three.js**, **Spline**, and **Framer Motion**
-- **Custom Tools** – QR generators, dynamic forms, sliders, admin UIs
-- **Performance Optimization** – Speed-focused development with mobile responsiveness, accessibility, and SEO in mind
-- **Marketing + Ads** – Meta Business Suite, Facebook/Google Ads, copywriting, targeting strategies
-
-
 ## 🛠️ Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -30,6 +18,21 @@ My work is **minimalist**, **mobile-first**, and **user-focused**, while under t
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+
+<details>
+  ##<summary>More about me ⬇️</summary>
+  
+## 💼 What I Do
+
+- **Full-Stack Web Development** – Clean, semantic HTML/CSS, fast JS, solid PHP
+- **CMS Expertise** – Advanced solutions with **Joomla 5** and **PrestaShop**
+- **E-Commerce Engineering** – Custom modules, product bundles, checkout flows, shipping/payment integrations (Stripe, Packeta, etc.)
+- **UI/UX Design** – Unique, responsive designs with a focus on user experience, clarity, and conversion
+- **Experimental Interfaces** – Interactive terminals, animated blobs, and creative UI using **Three.js**, **Spline**, and **Framer Motion**
+- **Custom Tools** – QR generators, dynamic forms, sliders, admin UIs
+- **Performance Optimization** – Speed-focused development with mobile responsiveness, accessibility, and SEO in mind
+- **Marketing + Ads** – Meta Business Suite, Facebook/Google Ads, copywriting, targeting strategies
 
 
 ## 🚀 Projects & Experience
@@ -48,3 +51,4 @@ My work is **minimalist**, **mobile-first**, and **user-focused**, while under t
 [![Email](https://img.shields.io/badge/Email-hi@deilas.eu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hi@deilas.eu)
 
   
+</details>
