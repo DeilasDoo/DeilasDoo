@@ -48,7 +48,7 @@ My work is **minimalist**, **mobile-first**, and **user-focused**, while under t
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/dale.codes)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/dalecodes)
-[![Email](https://img.shields.io/badge/Email-hi@deilas.eu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hi@deilas.eu)
+[![Email](https://img.shields.io/badge/Email-deilasdoodeilas@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deilasdoodeilas@gmail.com)
 
   
 </details>
