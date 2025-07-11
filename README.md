@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Deilas
 
-I'm a **full-stack web developer**, **UI/UX designer**, and **technical problem solver** blending clean design with powerful code. I build responsive, high-performance websites, web apps, and e-commerce systems that not only look great — but *work* great too.
+I am a **full-stack web developer**, **UI/UX designer**. I build responsive, high-performance websites, web apps, and e-commerce systems that not only look great — but *work* great too.
 
 My work is **minimalist**, **mobile-first**, and **user-focused**, while under the hood it's clean, efficient, and scalable. Whether you're a startup, brand, or agency — I make the web work for you.
 
